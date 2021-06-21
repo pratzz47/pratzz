@@ -6,13 +6,13 @@
 			First Web Page
 		</title>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BG7Y6C8ELR"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9DS16RVP8D"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-BG7Y6C8ELR');
+  gtag('config', 'G-9DS16RVP8D');
 </script>
 	</head>
 
